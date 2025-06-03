@@ -18,6 +18,9 @@ Loads
 ## Socials
 Thats upto you to find ;) 
 
+## My Site/Digital CV
+[placeholder]
+
 ---
 
 Stay curious, stay insecure.
