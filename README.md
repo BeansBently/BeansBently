@@ -1,16 +1,23 @@
-## Hi there 👋
+# BeansBently
 
-<!--
-**BeansBently/BeansBently** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm BeansBently, a passionate hacker. I specialise in penetration testing (un)ethically.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Penetration Testing & Vulnerability Assessment  
+- Network Security & Exploitation  
+- Reverse Engineering & Malware Analysis  
+- Scripting (Python, Bash)  
+- Social Engineering & Red Team Operations  
+
+## Projects
+Loads
+
+## Socials
+Thats upto you to find ;) 
+
+---
+
+Stay curious, stay insecure.
