@@ -10,7 +10,8 @@ I'm BeansBently, a passionate hacker. I specialise in penetration testing (un)et
 - Network Security & Exploitation  
 - Reverse Engineering & Malware Analysis  
 - Scripting (Python, Bash)  
-- Social Engineering & Red Team Operations  
+- Social Engineering & Red Team Operations
+- Misdirection
 
 ## Projects
 Loads
